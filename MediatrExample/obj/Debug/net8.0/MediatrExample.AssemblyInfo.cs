@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediatrExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ab8408a20681bba482b633c16fd976469b4c064")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediatrExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediatrExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
